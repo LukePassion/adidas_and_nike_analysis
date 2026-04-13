@@ -1,4 +1,4 @@
-# Adidas vs Nike — Data Analysis Project
+# Adidas and Nike — Data Analysis Project
 
 This project analyzes and compares Adidas and Nike products based on pricing, ratings, discounts, and customer engagement.
 
