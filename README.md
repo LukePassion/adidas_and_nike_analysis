@@ -21,21 +21,6 @@ Technologies Used
 - Data Cleaning & Feature Engineering  
 - Exploratory Data Analysis (EDA)  
 
-Project Structure
-
-adidas-nike-analysis/
-│
-├── notebooks/
-│   ├── 01_problem_definition.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_exploratory_analysis.ipynb
-│   ├── 04_visualizations.ipynb
-│   └── 05_conclusion.ipynb
-│
-├── images/ (optional)
-└── README.md
-
----
 
 Data Preparation
 
